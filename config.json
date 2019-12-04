@@ -1,0 +1,10 @@
+{
+	"enable": true,
+	"debug": false,
+	"bg": true,
+	"bg_description": "Enable/disable usage in bgs.",
+	"time": 2000,
+	"time_description": "The amount of time you are invincible in ms.",
+	"effect": 2060,
+	"effect_description": "Effect id to apply while invincible."
+}
